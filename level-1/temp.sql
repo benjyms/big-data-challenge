@@ -26,7 +26,18 @@
 --   total_votes INTEGER,
 --   vine TEXT
 -- );
--- #########################################################################
+
+-- ######################################################################################################
+
+-- select * from watch_review_id limit 10;
+
+-- select * from watch_products limit 10;
+
+-- select * from watch_customers limit 10;
+
+-- select * from watch_vine limit 10;
+
+-- ######################################################################################################
 
 -- CREATE TABLE gc_review_id (
 --   review_id TEXT PRIMARY KEY NOT NULL,
@@ -56,3 +67,14 @@
 --   total_votes INTEGER,
 --   vine TEXT
 -- );
+
+-- ######################################################################################################
+
+-- select * from gc_review_id limit 10;
+
+-- select * from gc_products limit 10;
+
+-- select * from gc_customers limit 10;
+
+-- select * from gc_vine limit 10;
+
